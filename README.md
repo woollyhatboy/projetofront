@@ -1,2 +1,9 @@
-# portifolio-r
-aprendendo a programar front end pq eu so sei back 
+#Portfolio - Web Developer
+
+##Tarefas
+
+-[ ] HEADER
+-[ ] Apresentação
+-[ ] projetos
+-[ ] Conhecimentos
+-[ ] Orçamento
