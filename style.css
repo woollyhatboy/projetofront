@@ -1,0 +1,17 @@
+:root {
+    --cor-de-fundo: #00030c
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+}
+
+.principal {
+    background-image: url("img/fundo3.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.container {
+    height: 250vh;
+}
